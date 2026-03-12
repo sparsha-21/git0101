@@ -3,3 +3,8 @@
 #addition function
 #
 x=1+2
+
+substarction
+
+y=1-2
+
