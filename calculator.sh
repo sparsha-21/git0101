@@ -2,7 +2,7 @@
 #
 #addition function
 #
-x=1+2
+x=1+2+4
 
 substarction
 
