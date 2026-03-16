@@ -1,7 +1,7 @@
 #!bin/bash
 #new line added
 #addition function
-# git fetch +merge +
+# git fetch +merge
 x=1+2+4
 
 substarction
