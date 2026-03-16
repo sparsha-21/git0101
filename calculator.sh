@@ -1,5 +1,5 @@
 #!bin/bash
-#
+#new line added
 #addition function
 #
 x=1+2+4
